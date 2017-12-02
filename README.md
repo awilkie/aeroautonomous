@@ -1,2 +1,2 @@
 # aeroautonomous
-Design, build and test drones for autonomous systems testing.
+Design, build and test drones for autonomous systems prototyping.
