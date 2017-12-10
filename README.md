@@ -17,6 +17,10 @@ Small quadrotor drone robot (Minidrot) platform (~2-25KG) that contains essentia
 1. RC output to ESCs for manual ground control.
 1. Telemetry modem for ground logging.
 
+## Bill Of Materials (BoM) and Feasibility Check
+1. TODO BoM Google Sheet link
+1. TODO insert simulator GIF
+
 ---
 
 # 2. Minidrot - Safety
