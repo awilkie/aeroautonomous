@@ -11,7 +11,7 @@ Small quadrotor drone robot (Minidrot) platform (~2-25KG) that contains essentia
 
 ## Design Sketch
 1. Quadrotor frame.
-1. [Navio2 autopilot HAT for Raspberry Pi 3 Model B](Navio2 - autopilot HAT for Raspberry Pi).
+1. [Navio2 autopilot HAT for Raspberry Pi 3 Model B](https://docs.emlid.com/navio2/).
 1. RPi Camera Board V2 used for DL semantic segmentation prototypes.
 1. RC input for manual ground control.
 1. RC output to ESCs for manual ground control.
