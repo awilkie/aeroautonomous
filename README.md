@@ -18,7 +18,7 @@ Small quadrotor drone robot (Minidrot) platform (~2-25KG) that contains essentia
 1. Telemetry modem for ground logging.
 
 ## Bill Of Materials (BoM) and Feasibility Check
-1. TODO BoM Google Sheet link
+1. [BoM Google Sheet](https://docs.google.com/spreadsheets/d/1bdErOIMVWX6OY5ZUp3LnhJFTFwIBEKmfTrtQTw4nhN0/edit?usp=sharing)
 1. TODO insert simulator GIF
 
 ---
